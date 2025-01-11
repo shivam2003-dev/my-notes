@@ -32,3 +32,23 @@
 
 Remember to choose the appropriate apology format based on the situation and your level of responsibility. Always aim to maintain professionalism and offer solutions when necessary.
 
+
+---
+Making requests more polite (
+http://www.businessenglishresources.com/31-2/teachers-section/skill-based-lessons/business-english-lessons-softening-phrases-to-make-polite-requests/
+)
+
+At this website you can find a variety of ways to soften or make your requests more polite and formal. 
+
+
+More general information about requests as well as some on suggestions (
+http://www.grammar-quizzes.com/modal5.html
+)
+
+This website has some examples and exercises for making requests and suggestions more formal and polite. 
+
+
+Formal  and informal expressions used for apologies (
+http://www.bloomsbury-international.com/blog/2013/10/18/how-to-apologise-in-english/
+)
+

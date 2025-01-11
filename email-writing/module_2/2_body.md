@@ -28,3 +28,9 @@
 - Demonstrate cultural awareness by being optimistic in the conclusion
 
 By following this structure and using appropriate language, you can create clear, effective, and culturally appropriate professional emails.
+
+---
+More complete list of general advice about emails in the 21st Century (
+http://www.inc.com/guides/2010/06/email-etiquette.html
+)
+

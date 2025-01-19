@@ -138,7 +138,7 @@ Citations:
 [29] https://www.youtube.com/watch?v=lwg0_q1GIjQ
 
 [30] https://www.k15t.com/rock-the-docs/confluence-use-cases/documentation-in-confluence-cloud/building-a-foundation-for-your-release-notes-in-confluence
-
+  
 [31] https://bitbucket.org/product/
 
 [32] https://support.atlassian.com/cloud-automation/docs/use-atlassian-automation-with-github/

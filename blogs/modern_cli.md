@@ -25,6 +25,56 @@ Poster gap check:
 - `eza --tree` is a usage mode of `eza`, not a separate install.
 - `curl/wget -> ss` in many posters is misleading; `ss` is for socket stats, not HTTP requests.
 
+## Install one tool (individual command)
+
+macOS (Homebrew):
+
+```bash
+brew install <tool>
+```
+
+Linux:
+
+```bash
+# apt (Debian/Ubuntu)
+sudo apt-get install -y <package>
+
+# dnf (Fedora/RHEL)
+sudo dnf install -y <package>
+
+# pacman (Arch)
+sudo pacman -S --noconfirm --needed <package>
+
+# zypper (openSUSE)
+sudo zypper --non-interactive install --no-recommends <package>
+```
+
+Common package-name differences:
+
+| Logical tool | macOS (brew) | apt | dnf | pacman | zypper |
+|---|---|---|---|---|---|
+| `ss` | `iproute2mac` | `iproute2` | `iproute` | `iproute2` | `iproute2` |
+| `fd` | `fd` | `fd-find` | `fd-find` (or `fd`) | `fd` | `fd` |
+| `bat` | `bat` | `bat` (command may be `batcat`) | `bat` | `bat` | `bat` |
+| `git-delta` | `git-delta` | `git-delta` (or `delta`) | `git-delta` | `git-delta` | `git-delta` |
+| `dust` | `dust` | `dust` (or `du-dust`) | `dust` | `dust` | `dust` |
+
+Examples:
+
+```bash
+# macOS: install only ripgrep
+brew install ripgrep
+
+# Ubuntu/Debian: install only fd
+sudo apt-get install -y fd-find
+
+# Fedora: install only ss support
+sudo dnf install -y iproute
+
+# Arch: install only git-delta
+sudo pacman -S --noconfirm --needed git-delta
+```
+
 ## Tool cheatsheet
 
 | Tool | Best used for | Use when | Quick example |
